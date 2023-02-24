@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: rgb(254, 255, 255);
+    text-align: center;
+}
+h1 {
+    color: blue;
+    margin: 50;
+    font-size: 50;
+    text-align: center;
+}
+button {
+    color: brown;
+    text-align: right;    
+}
+
+
